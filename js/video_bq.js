@@ -1,4 +1,4 @@
-$('body').vide('./../video/bq_video');
+// $('body').vide('./../video/bq_video');
 
 $(window).on('load', function () {
     
